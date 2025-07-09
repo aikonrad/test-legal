@@ -1,4 +1,4 @@
-# Mualapka – Legal Documents
+# Test – Legal Documents
 
 This repository contains the official Privacy Policy and Terms of Service for the **Test** mobile application in multiple languages.
 
