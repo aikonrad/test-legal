@@ -16,9 +16,9 @@ This repository contains the official Privacy Policy and Terms of Service for th
 - [Datenschutzbestimmungen (HTML)](privacy_policy_de.html)  
 - [Nutzungsbedingungen (HTML)](terms_of_service_de.html)
 
-## 📱 About Mualapka
+## 📱 About Test
 
-Mualapka is a mobile app offering all functions
+Test is a mobile app offering all functions
 
 ## 🔗 Useful Links
 
